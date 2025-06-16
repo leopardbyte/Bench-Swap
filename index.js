@@ -13,7 +13,7 @@ const champPresets = {
   "Assassins": ["Zed", "Kha'Zix", "Evelynn", "Akali", "Naafiri", "Yone", "Qiyana", "Pyke", "Rengar", "Fizz", "Talon", "Lee Sin", "Nocturne", "Evelynn", "Katarina", "Shaco", "Xin Zhao"],
   "Tanks": ["Malphite", "Ornn", "Sion", "Maokai", "Rell", "Illaoi", "Tahm Kench", "Braum", "Zac", "Darius", "Nautilus", "Sejuani", "Volibear", "Leona", "Alistar", "Amumu", "Blitzcrank", "Cho'Gath", "Galio", "Nunu & Willump", "Poppy", "Rammus", "Shen", "Singed"],
   "Mages": ["Lux", "Syndra", "Viktor", "Zoe", "Aurora", "Hwei", "Vex", " Lillia", "Sylas", "Neeko", "Zoe", "Taliyah", "Aurelion Sol", "Azir", "Vel'koz", "Lissandra", "Elise", "Diana", "Zyra", "Ziggs", "Ahri", "Xerath", "Orianna"],
-  "Marksmen": ["Jinx", "Caitlyn", "Neeko", "Ashe", "Bel'Veth", "Kog'Maw", "Zeri", "Xayah", "Senna", "Kalista", "Varus", "Twisted Fate", "Vayne", "Miss Fortune", "Tristana", "Twitch", "Sivir", "Quinn", "Kai'Sa"]
+  "Marksman": ["Jinx", "Caitlyn", "Neeko", "Ashe", "Bel'Veth", "Kog'Maw", "Zeri", "Xayah", "Senna", "Kalista", "Varus", "Twisted Fate", "Vayne", "Miss Fortune", "Tristana", "Twitch", "Sivir", "Quinn", "Kai'Sa"]
 };
 
 function getPresetChampionIds(names) {
